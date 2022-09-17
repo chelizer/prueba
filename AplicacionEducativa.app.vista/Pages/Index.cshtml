@@ -1,0 +1,37 @@
+﻿@page   
+@model AplicacionEducativa.app.vista.controlador.IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejemplo</title>
+    <link rel="stylesheet" href="css/Estilos.css">
+</head>
+<img src="pizza.jpg"></img>
+<div id="titulo">
+
+<h1>Hola mundo</h1>
+
+
+</div>
+
+ @using (Html.BeginForm("Edit")){
+
+
+ <label for="Age">How old are you?</label>
+    <input type="text" asp-for="Age">
+    <br />
+    <label for="Money">How much money do you have in your pocket?</label>
+    <input type="text" asp-for="Money">
+    <br />
+    <input type="submit" id="Submit">  
+
+}
+
+   Money: @Model.Money
+    Age: @Model.Age

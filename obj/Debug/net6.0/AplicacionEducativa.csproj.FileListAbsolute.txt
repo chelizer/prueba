@@ -1,0 +1,5 @@
+C:\Users\Marcelo\Desktop\AplicacionEducativa\obj\Debug\net6.0\AplicacionEducativa.csproj.AssemblyReference.cache
+C:\Users\Marcelo\Desktop\AplicacionEducativa\obj\Debug\net6.0\AplicacionEducativa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Desktop\AplicacionEducativa\obj\Debug\net6.0\AplicacionEducativa.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Desktop\AplicacionEducativa\obj\Debug\net6.0\AplicacionEducativa.AssemblyInfo.cs
+C:\Users\Marcelo\Desktop\AplicacionEducativa\obj\Debug\net6.0\AplicacionEducativa.csproj.CoreCompileInputs.cache

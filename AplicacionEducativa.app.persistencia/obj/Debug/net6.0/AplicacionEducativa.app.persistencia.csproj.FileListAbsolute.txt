@@ -1,0 +1,14 @@
+C:\Users\Marcelo\Desktop\AplicacionEducativa\AplicacionEducativa.app.persistencia\bin\Debug\net6.0\AplicacionEducativa.app.persistencia.deps.json
+C:\Users\Marcelo\Desktop\AplicacionEducativa\AplicacionEducativa.app.persistencia\bin\Debug\net6.0\AplicacionEducativa.app.persistencia.runtimeconfig.json
+C:\Users\Marcelo\Desktop\AplicacionEducativa\AplicacionEducativa.app.persistencia\bin\Debug\net6.0\AplicacionEducativa.app.persistencia.dll
+C:\Users\Marcelo\Desktop\AplicacionEducativa\AplicacionEducativa.app.persistencia\bin\Debug\net6.0\AplicacionEducativa.app.persistencia.pdb
+C:\Users\Marcelo\Desktop\AplicacionEducativa\AplicacionEducativa.app.persistencia\obj\Debug\net6.0\AplicacionEducativa.app.persistencia.csproj.AssemblyReference.cache
+C:\Users\Marcelo\Desktop\AplicacionEducativa\AplicacionEducativa.app.persistencia\obj\Debug\net6.0\AplicacionEducativa.app.persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Desktop\AplicacionEducativa\AplicacionEducativa.app.persistencia\obj\Debug\net6.0\AplicacionEducativa.app.persistencia.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Desktop\AplicacionEducativa\AplicacionEducativa.app.persistencia\obj\Debug\net6.0\AplicacionEducativa.app.persistencia.AssemblyInfo.cs
+C:\Users\Marcelo\Desktop\AplicacionEducativa\AplicacionEducativa.app.persistencia\obj\Debug\net6.0\AplicacionEducativa.app.persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\AplicacionEducativa\AplicacionEducativa.app.persistencia\obj\Debug\net6.0\AplicacionEducativa.app.persistencia.dll
+C:\Users\Marcelo\Desktop\AplicacionEducativa\AplicacionEducativa.app.persistencia\obj\Debug\net6.0\refint\AplicacionEducativa.app.persistencia.dll
+C:\Users\Marcelo\Desktop\AplicacionEducativa\AplicacionEducativa.app.persistencia\obj\Debug\net6.0\AplicacionEducativa.app.persistencia.pdb
+C:\Users\Marcelo\Desktop\AplicacionEducativa\AplicacionEducativa.app.persistencia\obj\Debug\net6.0\AplicacionEducativa.app.persistencia.genruntimeconfig.cache
+C:\Users\Marcelo\Desktop\AplicacionEducativa\AplicacionEducativa.app.persistencia\obj\Debug\net6.0\ref\AplicacionEducativa.app.persistencia.dll

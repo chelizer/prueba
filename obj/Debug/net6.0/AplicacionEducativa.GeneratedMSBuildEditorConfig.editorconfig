@@ -1,0 +1,88 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows,browser
+build_property.RootNamespace = AplicacionEducativa
+build_property.RootNamespace = AplicacionEducativa
+build_property.ProjectDir = C:\Users\Marcelo\Desktop\AplicacionEducativa\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Marcelo\Desktop\AplicacionEducativa
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Marcelo/Desktop/AplicacionEducativa/AplicacionEducativa.app.dominio/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBsaWNhY2lvbkVkdWNhdGl2YS5hcHAuZG9taW5pb1xfSW1wb3J0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcelo/Desktop/AplicacionEducativa/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcelo/Desktop/AplicacionEducativa/AplicacionEducativa.app.dominio/Component1.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBsaWNhY2lvbkVkdWNhdGl2YS5hcHAuZG9taW5pb1xDb21wb25lbnQxLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-pfu8p2l0yq
+
+[C:/Users/Marcelo/Desktop/AplicacionEducativa/Component1.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50MS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-149w8qqx23
+
+[C:/Users/Marcelo/Desktop/AplicacionEducativa/AplicacionEducativa.app.servicios/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXBsaWNhY2lvbkVkdWNhdGl2YS5hcHAuc2VydmljaW9zXFBhZ2VzXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcelo/Desktop/AplicacionEducativa/AplicacionEducativa.app.servicios/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXBsaWNhY2lvbkVkdWNhdGl2YS5hcHAuc2VydmljaW9zXFBhZ2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcelo/Desktop/AplicacionEducativa/AplicacionEducativa.app.servicios/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXBsaWNhY2lvbkVkdWNhdGl2YS5hcHAuc2VydmljaW9zXFBhZ2VzXFByaXZhY3kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcelo/Desktop/AplicacionEducativa/AplicacionEducativa.app.servicios/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXBsaWNhY2lvbkVkdWNhdGl2YS5hcHAuc2VydmljaW9zXFBhZ2VzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcelo/Desktop/AplicacionEducativa/AplicacionEducativa.app.servicios/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXBsaWNhY2lvbkVkdWNhdGl2YS5hcHAuc2VydmljaW9zXFBhZ2VzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcelo/Desktop/AplicacionEducativa/AplicacionEducativa.app.servicios/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXBsaWNhY2lvbkVkdWNhdGl2YS5hcHAuc2VydmljaW9zXFBhZ2VzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcelo/Desktop/AplicacionEducativa/AplicacionEducativa.app.vista/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXBsaWNhY2lvbkVkdWNhdGl2YS5hcHAudmlzdGFcUGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcelo/Desktop/AplicacionEducativa/AplicacionEducativa.app.vista/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXBsaWNhY2lvbkVkdWNhdGl2YS5hcHAudmlzdGFcUGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcelo/Desktop/AplicacionEducativa/AplicacionEducativa.app.vista/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXBsaWNhY2lvbkVkdWNhdGl2YS5hcHAudmlzdGFcUGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcelo/Desktop/AplicacionEducativa/AplicacionEducativa.app.vista/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXBsaWNhY2lvbkVkdWNhdGl2YS5hcHAudmlzdGFcUGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcelo/Desktop/AplicacionEducativa/AplicacionEducativa.app.vista/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXBsaWNhY2lvbkVkdWNhdGl2YS5hcHAudmlzdGFcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcelo/Desktop/AplicacionEducativa/AplicacionEducativa.app.vista/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXBsaWNhY2lvbkVkdWNhdGl2YS5hcHAudmlzdGFcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcelo/Desktop/AplicacionEducativa/AplicacionEducativa.app.servicios/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXBsaWNhY2lvbkVkdWNhdGl2YS5hcHAuc2VydmljaW9zXFBhZ2VzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-cn5wqtjias
+
+[C:/Users/Marcelo/Desktop/AplicacionEducativa/AplicacionEducativa.app.vista/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXBsaWNhY2lvbkVkdWNhdGl2YS5hcHAudmlzdGFcUGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-gk3malnjzt
